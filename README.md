@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-My name is João Paulo, i'm software engineer and Javascript enthusiastic.
+I'm software engineer and Javascript enthusiastic.
 
 - 🔭 I’m currently i'm working as a full-stack developer at Amura Sistemas.
 - 🌱 I’m currently (and always) learning Javascript & CSharp.
