@@ -13,6 +13,10 @@ My name is João Paulo, i'm software engineer and Javascript enthusiastic.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joaopaulovw&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&locale=pt-br&ring=EC6300&fire=EC6300&currStreakLabel=E7E7E7&sideNums=0072DD&currStreakNum=EC6300&stroke=DDDDDD1B)](https://git.io/streak-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulovw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **joaopaulovw/joaopaulovw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
