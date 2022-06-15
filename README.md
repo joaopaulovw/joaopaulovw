@@ -2,11 +2,11 @@
 
 I'm software engineer and Javascript enthusiastic. Currently working as a full-stack developer at Amura Sistemas.
 
-- 🌱 I’m currently (and always) learning Javascript & CSharp.
+🌱 I’m currently (and always) learning Javascript & CSharp.
 
 #### 🛠️ Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,cs,dotnet,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,cs,dotnet,docker&perline=4)](https://skillicons.dev)
 
 #### 💬 Reach me on:
 
