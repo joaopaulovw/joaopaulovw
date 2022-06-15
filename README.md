@@ -5,11 +5,11 @@ I'm software engineer and Javascript enthusiastic.
 - 🔭 I’m currently working as a full-stack developer at Amura Sistemas.
 - 🌱 I’m currently (and always) learning Javascript & CSharp.
 
-### Languages and Tools
+#### Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,cs,dotnet,docker)](https://skillicons.dev)
 
-### Stats
+#### Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joaopaulovw&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&ring=EC6300&fire=EC6300&currStreakLabel=E7E7E7&sideNums=0072DD&currStreakNum=EC6300&stroke=DDDDDD1B)](https://git.io/streak-stats)
 
