@@ -5,11 +5,11 @@ My name is João Paulo, i'm software engineer and Javascript enthusiastic.
 - 🔭 I’m currently i'm working as a full-stack developer at Amura Sistemas.
 - 🌱 I’m currently (and always) learning Javascript & CSharp.
 
-** Skills **
+**Skills**
 
 
 
-** Stats **
+**Stats**
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joaopaulovw&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&locale=pt-br&ring=EC6300&fire=EC6300&currStreakLabel=E7E7E7&sideNums=0072DD&currStreakNum=EC6300&stroke=DDDDDD1B)](https://git.io/streak-stats)
 
