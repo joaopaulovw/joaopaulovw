@@ -2,7 +2,7 @@
 
 I'm software engineer and Javascript enthusiastic.
 
-- 🔭 I’m currently i'm working as a full-stack developer at Amura Sistemas.
+- 🔭 I’m currently working as a full-stack developer at Amura Sistemas.
 - 🌱 I’m currently (and always) learning Javascript & CSharp.
 
 **Skills**
