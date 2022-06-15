@@ -7,7 +7,7 @@ My name is João Paulo, i'm software engineer and Javascript enthusiastic.
 
 **Skills**
 
-
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,cs,dotnet,docker)](https://skillicons.dev)
 
 **Stats**
 
