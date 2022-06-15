@@ -12,7 +12,7 @@ I'm software engineer and Javascript enthusiastic. Currently working as a full-s
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaopaulovw/)](https://www.linkedin.com/in/joaopaulovw/)
 
-[![Gmail Badge](https://img.shields.io/badge/-rodrigorgtic@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaopaulovwanderley@gmail.com)](mailto:joaopaulovwanderley@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-joaopaulovwanderley@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaopaulovwanderley@gmail.com)](mailto:joaopaulovwanderley@gmail.com)
 
 #### Stats
 
